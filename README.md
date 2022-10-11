@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 * ["docker build"时的安全问题](https://mp.weixin.qq.com/s/iGkq7dWq2wjB0hSRAm3PgQ)
 
 # web安全
+* [浅析洞态iast产品](https://mp.weixin.qq.com/s/fq2m59L_2Piqyeufl6eZFQ)
 * [apisix安全评估](https://mp.weixin.qq.com/s/3akg5WKWRTWc3aLaE1VDCg)
 * [代码审计的阶段性总结](https://mp.weixin.qq.com/s/qYVxK3y0cvcW-0PhC8zTrQ)
 * [CVE-2021-45232分析(APISIX网关未授权访问)](https://mp.weixin.qq.com/s/FyBqzprSCqakY4AORcEiSw)
