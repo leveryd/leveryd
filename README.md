@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 * [验证pf_ring性能](https://mp.weixin.qq.com/s/BKpfzeT32yNPZumQVuCJUQ)
 
 # 云/云原生
+* [浅谈云原生安全建设](https://mp.weixin.qq.com/s/HA_w_gEe-GOFZXGsOg_Iog)
 * [浅识"准入控制器"](https://mp.weixin.qq.com/s/FoNI6qYLQXXgTrNWjRVV9Q)
 * [浅浅浅识k8s中的"api聚合"](https://mp.weixin.qq.com/s/1qakh_GP33ULj06Xzvj4KQ)
 * [k8s中使用ingress时的小技巧](https://mp.weixin.qq.com/s/aK7XWJ7h0smyAQOjWcRBaA)
