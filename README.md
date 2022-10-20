@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 公众号: [leveryd](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkyMDIxMjE5MA==&action=getalbum&album_id=1728579975424901120&scene=126#wechat_redirect)
 
-我关注: `安全产品`、`云/云原生`、`web安全`、`攻防对抗`
+我关注: `安全产品`、`云/云原生`、`应用安全`
 
 # WAF
 * [反爬检测小结(1)](https://mp.weixin.qq.com/s/g7Dyo3VD7I8h99IulJNGXw)
