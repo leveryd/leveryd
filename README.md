@@ -97,7 +97,6 @@ Here are some ideas to get you started:
 * [用strace定位bug](https://mp.weixin.qq.com/s/gH7Gy-UylXIG4qybP9KuUg)
 
 # 其他
-* [一次仲裁经历](https://mp.weixin.qq.com/s/Bif77M55NZBrGVGfxghidw)
 * [提高漏洞验证效率的工具](https://mp.weixin.qq.com/s/7nNFiYBv-80xJjBT3RJiBg)
 * [验证是否存在写文件漏洞小技巧](https://mp.weixin.qq.com/s/rx_p6fICVI5DDSRMIsgYsA)
 * [词法分析在安全产品中的应用](https://mp.weixin.qq.com/s/ydlnS9JRBgOvVE6ooM6MNw)
