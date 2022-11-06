@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 * [反混淆"控制流平坦化"思路及实践](https://mp.weixin.qq.com/s/FnB1z1Kja3bq0Tjr_g1zvg)
 
 # 主机安全
+* [webshell绕过案例](https://mp.weixin.qq.com/s/fXRag-CE8O6XCfiCdjiVRA)
 * [关于"linux能力"的两个特殊案例](https://mp.weixin.qq.com/s/o0kHiRsXvuSR32-DlgXGQg)
 * [基于netfilter的后门](https://mp.weixin.qq.com/s/UL7Rd56MtSB6If_Tu_2N7w)
 * [聊一聊基于"ebpf xdp"的rootkit](https://mp.weixin.qq.com/s/Rezm05kP6fxB5Pwib1HxDA)
