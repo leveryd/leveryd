@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 我关注: `安全产品`、`云/云原生`、`应用安全`
 
 # WAF
+* [基于openresty-lua的反爬插件](https://github.com/leveryd/antispider)
 * [反爬检测小结(1)](https://mp.weixin.qq.com/s/g7Dyo3VD7I8h99IulJNGXw)
 * [WAF攻防(5)](https://mp.weixin.qq.com/s/Asb2aoio7xlNn7aNhNZh2Q)
 * [WAF攻防实践(4)](https://mp.weixin.qq.com/s/AS1cpMqr1WkuoLmRld_p0w)
@@ -36,6 +37,7 @@ Here are some ideas to get you started:
 * [反混淆"控制流平坦化"思路及实践](https://mp.weixin.qq.com/s/FnB1z1Kja3bq0Tjr_g1zvg)
 
 # 主机安全
+* [蓝军和elf loader](https://mp.weixin.qq.com/s/-TkT5rdRJXmfifsDuZ9qxQ)
 * [webshell绕过案例](https://mp.weixin.qq.com/s/fXRag-CE8O6XCfiCdjiVRA)
 * [关于"linux能力"的两个特殊案例](https://mp.weixin.qq.com/s/o0kHiRsXvuSR32-DlgXGQg)
 * [基于netfilter的后门](https://mp.weixin.qq.com/s/UL7Rd56MtSB6If_Tu_2N7w)
@@ -74,6 +76,7 @@ Here are some ideas to get you started:
 * ["docker build"时的安全问题](https://mp.weixin.qq.com/s/iGkq7dWq2wjB0hSRAm3PgQ)
 
 # web安全
+* [go相关的安全研究](https://github.com/leveryd/go-sec-code)
 * [浅析洞态iast产品](https://mp.weixin.qq.com/s/fq2m59L_2Piqyeufl6eZFQ)
 * [apisix安全评估](https://mp.weixin.qq.com/s/3akg5WKWRTWc3aLaE1VDCg)
 * [代码审计的阶段性总结](https://mp.weixin.qq.com/s/qYVxK3y0cvcW-0PhC8zTrQ)
@@ -104,4 +107,5 @@ Here are some ideas to get you started:
 * [2021年我的学习计划](https://mp.weixin.qq.com/s/Ma0s01YOaaZ5L5UpSoH_EA)
 * [Python栈溢出CVE-2021-3177分析](https://mp.weixin.qq.com/s/JWyJjKN9L_LkGQajr61vrA)
 * [CPython的线程与GIL](https://mp.weixin.qq.com/s/FZEweLR9srvpuarbYHcNzQ)
+* [从零实现一门编程语言](https://github.com/leveryd/PlayWithCompiler)
 
