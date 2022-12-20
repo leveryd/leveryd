@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 * [分析bash反弹shell的语法](https://mp.weixin.qq.com/s/eW3iE44g9SJz_-Zn62mDDg)
 
 # 漏洞扫描器
+* [基于任务编排玩一玩漏扫](https://mp.weixin.qq.com/s/CQshF0KsDCPB6AmtOgOBqw)
 * [扫描器性能分析案例(修正版)](https://mp.weixin.qq.com/s/nCgjgHv2ntcudHZmd5fh9w)
 * [扫描性能分析案例(二)](https://mp.weixin.qq.com/s/iSUTEr0J3sJe9Gmi__Z5Xw)
 * [解决内存泄漏的通用思路](https://mp.weixin.qq.com/s/D-NKYMNF8V6_Lu9-X8h5Mw)
