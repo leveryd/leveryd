@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 我关注: `安全产品`、`云/云原生`、`应用安全`
 
+以下是公众号上的原创文章
+
 # WAF
 * [基于openresty-lua的反爬插件](https://github.com/leveryd/antispider)
 * [反爬检测小结(1)](https://mp.weixin.qq.com/s/g7Dyo3VD7I8h99IulJNGXw)
@@ -56,6 +58,7 @@ Here are some ideas to get you started:
 * [分析bash反弹shell的语法](https://mp.weixin.qq.com/s/eW3iE44g9SJz_-Zn62mDDg)
 
 # 漏洞扫描器
+* [基于任务编排的漏扫实现(asm项目)](https://mp.weixin.qq.com/s/CQshF0KsDCPB6AmtOgOBqw)
 * [基于任务编排玩一玩漏扫](https://mp.weixin.qq.com/s/CQshF0KsDCPB6AmtOgOBqw)
 * [扫描器性能分析案例(修正版)](https://mp.weixin.qq.com/s/nCgjgHv2ntcudHZmd5fh9w)
 * [扫描性能分析案例(二)](https://mp.weixin.qq.com/s/iSUTEr0J3sJe9Gmi__Z5Xw)
