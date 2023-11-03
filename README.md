@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 * [分析bash反弹shell的语法](https://mp.weixin.qq.com/s/eW3iE44g9SJz_-Zn62mDDg)
 
 # 漏洞扫描器
+* [asm项目v0.0.3版本总结](https://mp.weixin.qq.com/s/LOqioImlTnXitRq-CW9eXA)
 * [asm项目v0.0.2版本总结](https://mp.weixin.qq.com/s/bGmL-XYXLxm3YxQt3sqCzw)
 * [asm项目和爬虫](https://mp.weixin.qq.com/s/fyUJPZ44gKpZF4q4ejA6fQ)
 * [基于任务编排的漏扫实现(asm项目)](https://mp.weixin.qq.com/s/CQshF0KsDCPB6AmtOgOBqw)
