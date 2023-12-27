@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 以下是公众号上的原创文章
 
 # WAF
+* [开源WAF规则运营入门](https://mp.weixin.qq.com/s/LUU6tWPqk1_2v2Nb3UV8VA)
+* [安全规则中的正则表达式](https://mp.weixin.qq.com/s/OGXAOkt6RpKdoVtg-5cd6w)
 * [基于openresty-lua的反爬插件](https://github.com/leveryd/antispider)
 * [反爬检测小结(1)](https://mp.weixin.qq.com/s/g7Dyo3VD7I8h99IulJNGXw)
 * [WAF攻防(5)](https://mp.weixin.qq.com/s/Asb2aoio7xlNn7aNhNZh2Q)
