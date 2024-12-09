@@ -1,4 +1,4 @@
-### 关于我
+# 关于我
 
 <!--
 **leveryd/leveryd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<img align='right' src="https://github.com/user-attachments/assets/ba5461e6-7f30-47a5-b838-19b2a6a1d521" width="380">
+
 <!-- ![qrcode_for_gh_8d7f6ed4daff_258](https://user-images.githubusercontent.com/1846319/163835397-2b589f23-58c7-4026-8381-70670bb3e52f.jpg) -->
+
+知识星球：[安全产品那些事](https://wx.zsxq.com/group/51112812585244)
 
 公众号: [leveryd](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkyMDIxMjE5MA==&action=getalbum&album_id=1728579975424901120&scene=126#wechat_redirect)
 
-我关注: `安全产品`、`云/云原生`、`应用安全`
+提供的服务：WAF绕过、WAF/天眼/天擎等安全设备运营、安全工具定制开发
 
-以下是公众号上的原创文章
+欢迎在公众号和我交流，以下是公众号上的原创文章
 
 # WAF
 * [开源WAF规则运营入门](https://mp.weixin.qq.com/s/LUU6tWPqk1_2v2Nb3UV8VA)
